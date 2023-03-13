@@ -3,28 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdev921&label=Profile%20views&color=0e75b6&style=flat" alt="rdev921" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdev921" alt="rdev921" /></a> </p>
-- 🌱 I’m currently learning **SpringBoot**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdev921" alt="rdev921" /></a>
+</p>
+<img align="right" alt="Coding" width="400" src="https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg">
+- 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **kushwahapintu903@gmail.com**
-- 👨‍💻 All of my projects are available at [github](https://github.com/pintu903?tab=repositories)
+- 📫 How to reach me **rishabhd921@gmail.com**
+- 👨‍💻 All of my projects are available at [github](https://github.com/Rdev921?tab=repositories)
 
-- ✔ To know more about me , **visit [PintuKumar](https://pintu903.github.io/)**
-- ⚡ Fun fact **I like to watch funny video.**
+- ✔ To know more about me , **visit [RishabhDev](https://github.com/Rdev921/Rdev921.github.io)**
+- ⚡ Fun fact **I like to watch Stanup Comedy.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-  
- [![Linkedin Badge](https://img.shields.io/badge/-Pintu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pintukumar903//)](https://www.linkedin.com/in/pintukumar903/)  [![Gmail Badge](https://img.shields.io/badge/-kushwahapintu903@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kushwahapintu903@gmail.com)](mailto:kushwahapintu903@gmail.com)
- </p>
+
  
- <a href="https://linkedin.com/in/pintukumar903" target="_blank">
+ <a href="https://www.linkedin.com/in/rishabh-dev-884b511a2/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/pintu903" target="_blank">
+<a href="https://github.com/Rdev921" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
