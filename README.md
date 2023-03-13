@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rdev921" alt="rdev921" /></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg">
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning ReactJS
 
 - 💬 Ask me about **JavaScript**
 
@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [github](https://github.com/Rdev921?tab=repositories)
 
 - ✔ To know more about me , **visit [RishabhDev](https://github.com/Rdev921/Rdev921.github.io)**
-- ⚡ Fun fact **I like to watch Stanup Comedy.**
+- ⚡ Fun fact **I like to watch Standup Comedy.**
 
 <h3 align="left">Connect with me:</h3>
 
