@@ -16,7 +16,7 @@
 - 📚 &nbsp; I like to play cricket and football
 - 💬 &nbsp; If you have any question/feedback, please do not hesitate to reach out to me!
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **gyan2501998@gmail.com**
-- 👨‍💻  Want to know more about **me/my projects** visit at <a href="https://gyan2501.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
+- 👨‍💻  Want to know more about **me/my projects** visit at <a href="https://rdev921.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
 
 <h3 align="left">Connect with me:</h3>
 
